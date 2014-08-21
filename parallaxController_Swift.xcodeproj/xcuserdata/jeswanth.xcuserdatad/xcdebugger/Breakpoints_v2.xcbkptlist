@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "parallaxController_Swift/ParallaxViewController.swift"
+            timestampString = "430244601.707984"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "init(coder:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "parallaxController_Swift/ParallaxViewController.swift"
+            timestampString = "430244601.707984"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "numberOfSectionsInCollectionView(_:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "parallaxController_Swift/ParallaxViewController.swift"
+            timestampString = "430244601.707984"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "collectionView(_:cellForItemAtIndexPath:)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "parallaxController_Swift.ParallaxViewController.collectionView (parallaxController_Swift.ParallaxViewController)(Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UICollectionView&gt;, cellForItemAtIndexPath : Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.NSIndexPath&gt;) -&gt; Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UICollectionViewCell&gt;"
+                  moduleName = "parallaxController_Swift"
+                  urlString = "file:///Users/jeswanth/Desktop/chatHelper%20app/Work%20Done%20/parallaxController_Swift/parallaxController_Swift/ParallaxViewController.swift"
+                  timestampString = "430243660.680652"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "parallaxController_Swift.ParallaxViewController.collectionView (parallaxController_Swift.ParallaxViewController)(Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UICollectionView&gt;, cellForItemAtIndexPath : Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.NSIndexPath&gt;) -&gt; Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UICollectionViewCell&gt;"
+                  moduleName = "parallaxController_Swift"
+                  urlString = "file:///Users/jeswanth/Desktop/chatHelper%20app/Work%20Done%20/parallaxController_Swift/parallaxController_Swift/ParallaxViewController.swift"
+                  timestampString = "430243660.680808"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "49">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "parallaxController_Swift/ParallaxViewController.swift"
+            timestampString = "430244601.707984"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "collectionView(_:numberOfItemsInSection:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "parallaxController_Swift/ParallaxViewController.swift"
+            timestampString = "430244601.707984"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "collectionView(_:cellForItemAtIndexPath:)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "parallaxController_Swift.ParallaxViewController.collectionView (parallaxController_Swift.ParallaxViewController)(Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UICollectionView&gt;, cellForItemAtIndexPath : Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.NSIndexPath&gt;) -&gt; Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UICollectionViewCell&gt;"
+                  moduleName = "parallaxController_Swift"
+                  urlString = "file:///Users/jeswanth/Desktop/chatHelper%20app/Work%20Done%20/parallaxController_Swift/parallaxController_Swift/ParallaxViewController.swift"
+                  timestampString = "430243660.681273"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "parallaxController_Swift.ParallaxViewController.collectionView (parallaxController_Swift.ParallaxViewController)(Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UICollectionView&gt;, cellForItemAtIndexPath : Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.NSIndexPath&gt;) -&gt; Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UICollectionViewCell&gt;"
+                  moduleName = "parallaxController_Swift"
+                  urlString = "file:///Users/jeswanth/Desktop/chatHelper%20app/Work%20Done%20/parallaxController_Swift/parallaxController_Swift/ParallaxViewController.swift"
+                  timestampString = "430243660.681402"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "49">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "parallaxController_Swift/ParallaxHeaderLayout.swift"
+            timestampString = "430286078.791817"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "180"
+            endingLineNumber = "180"
+            landmarkName = "updateHeaderAttributes(_:lastCellAttributes:)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "parallaxController_Swift.ParallaxHeaderLayout.updateHeaderAttributes (parallaxController_Swift.ParallaxHeaderLayout)(ObjectiveC.UICollectionViewLayoutAttributes, lastCellAttributes : ObjectiveC.UICollectionViewLayoutAttributes) -&gt; ()"
+                  moduleName = "parallaxController_Swift"
+                  urlString = "file:///Users/jeswanth/Desktop/chatHelper%20app/Work%20Done%20/parallaxController_Swift/parallaxController_Swift/ParallaxHeaderLayout.swift"
+                  timestampString = "430243660.682044"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "183"
+                  endingLineNumber = "183"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "parallaxController_Swift.ParallaxHeaderLayout.updateHeaderAttributes (parallaxController_Swift.ParallaxHeaderLayout)(ObjectiveC.UICollectionViewLayoutAttributes, lastCellAttributes : ObjectiveC.UICollectionViewLayoutAttributes) -&gt; ()"
+                  moduleName = "parallaxController_Swift"
+                  urlString = "file:///Users/jeswanth/Desktop/chatHelper%20app/Work%20Done%20/parallaxController_Swift/parallaxController_Swift/ParallaxHeaderLayout.swift"
+                  timestampString = "430243660.682174"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "183"
+                  endingLineNumber = "183"
+                  offsetFromSymbolStart = "89">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "parallaxController_Swift/ParallaxHeaderLayout.swift"
+            timestampString = "430286078.791817"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "169"
+            endingLineNumber = "169"
+            landmarkName = "shouldInvalidateLayoutForBoundsChange(_:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "parallaxController_Swift/ParallaxHeaderLayout.swift"
+            timestampString = "430286078.791817"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "162"
+            endingLineNumber = "162"
+            landmarkName = "collectionViewContentSize()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "parallaxController_Swift/ParallaxHeaderLayout.swift"
+            timestampString = "430286078.791817"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "153"
+            endingLineNumber = "153"
+            landmarkName = "layoutAttributesForItemAtIndexPath(_:)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "parallaxController_Swift.ParallaxHeaderLayout.layoutAttributesForItemAtIndexPath (parallaxController_Swift.ParallaxHeaderLayout)(Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.NSIndexPath&gt;) -&gt; Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UICollectionViewLayoutAttributes&gt;"
+                  moduleName = "parallaxController_Swift"
+                  urlString = "file:///Users/jeswanth/Desktop/chatHelper%20app/Work%20Done%20/parallaxController_Swift/parallaxController_Swift/ParallaxHeaderLayout.swift"
+                  timestampString = "430187438.410696"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "200"
+                  endingLineNumber = "200"
+                  offsetFromSymbolStart = "19">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "parallaxController_Swift.ParallaxHeaderLayout.layoutAttributesForItemAtIndexPath (parallaxController_Swift.ParallaxHeaderLayout)(Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.NSIndexPath&gt;) -&gt; Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UICollectionViewLayoutAttributes&gt;"
+                  moduleName = "parallaxController_Swift"
+                  urlString = "file:///Users/jeswanth/Desktop/chatHelper%20app/Work%20Done%20/parallaxController_Swift/parallaxController_Swift/ParallaxHeaderLayout.swift"
+                  timestampString = "430187438.410929"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "200"
+                  endingLineNumber = "200"
+                  offsetFromSymbolStart = "121">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "parallaxController_Swift/ParallaxHeaderLayout.swift"
+            timestampString = "430286078.791817"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "140"
+            endingLineNumber = "140"
+            landmarkName = "layoutAttributesForSupplementaryViewOfKind(_:atIndexPath:)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "parallaxController_Swift.ParallaxHeaderLayout.layoutAttributesForSupplementaryViewOfKind (parallaxController_Swift.ParallaxHeaderLayout)(Swift.ImplicitlyUnwrappedOptional&lt;Swift.String&gt;, atIndexPath : Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.NSIndexPath&gt;) -&gt; Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UICollectionViewLayoutAttributes&gt;"
+                  moduleName = "parallaxController_Swift"
+                  urlString = "file:///Users/jeswanth/Desktop/chatHelper%20app/Work%20Done%20/parallaxController_Swift/parallaxController_Swift/ParallaxHeaderLayout.swift"
+                  timestampString = "430243660.683415"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "143"
+                  endingLineNumber = "143"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "parallaxController_Swift.ParallaxHeaderLayout.layoutAttributesForSupplementaryViewOfKind (parallaxController_Swift.ParallaxHeaderLayout)(Swift.ImplicitlyUnwrappedOptional&lt;Swift.String&gt;, atIndexPath : Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.NSIndexPath&gt;) -&gt; Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UICollectionViewLayoutAttributes&gt;"
+                  moduleName = "parallaxController_Swift"
+                  urlString = "file:///Users/jeswanth/Desktop/chatHelper%20app/Work%20Done%20/parallaxController_Swift/parallaxController_Swift/ParallaxHeaderLayout.swift"
+                  timestampString = "430243660.683554"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "143"
+                  endingLineNumber = "143"
+                  offsetFromSymbolStart = "191">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "parallaxController_Swift/ParallaxHeaderLayout.swift"
+            timestampString = "430286078.791817"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "174"
+            endingLineNumber = "174"
+            landmarkName = "layoutAttributesClass()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "parallaxController_Swift/ParallaxHeaderLayout.swift"
+            timestampString = "430243539.552614"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "layoutAttributesForElementsInRect(_:)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "parallaxController_Swift.ParallaxHeaderLayout.layoutAttributesForElementsInRect (parallaxController_Swift.ParallaxHeaderLayout)(C.CGRect) -&gt; Swift.ImplicitlyUnwrappedOptional&lt;Swift.Array&lt;Swift.AnyObject&gt;&gt;"
+                  moduleName = "parallaxController_Swift"
+                  urlString = "file:///Users/jeswanth/Desktop/chatHelper%20app/Work%20Done%20/parallaxController_Swift/parallaxController_Swift/ParallaxHeaderLayout.swift"
+                  timestampString = "430243660.684362"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "925">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "parallaxController_Swift.ParallaxHeaderLayout.layoutAttributesForElementsInRect (parallaxController_Swift.ParallaxHeaderLayout)(C.CGRect) -&gt; Swift.ImplicitlyUnwrappedOptional&lt;Swift.Array&lt;Swift.AnyObject&gt;&gt;"
+                  moduleName = "parallaxController_Swift"
+                  urlString = "file:///Users/jeswanth/Desktop/chatHelper%20app/Work%20Done%20/parallaxController_Swift/parallaxController_Swift/ParallaxHeaderLayout.swift"
+                  timestampString = "430243660.684499"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "1003">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "parallaxController_Swift/ParallaxHeaderLayout.swift"
+            timestampString = "430243539.552614"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "layoutAttributesForElementsInRect(_:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "parallaxController_Swift/ParallaxHeaderLayout.swift"
+            timestampString = "430243539.552614"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "layoutAttributesForElementsInRect(_:)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "parallaxController_Swift.ParallaxHeaderLayout.layoutAttributesForElementsInRect (parallaxController_Swift.ParallaxHeaderLayout)(C.CGRect) -&gt; Swift.ImplicitlyUnwrappedOptional&lt;Swift.Array&lt;Swift.AnyObject&gt;&gt;"
+                  moduleName = "parallaxController_Swift"
+                  urlString = "file:///Users/jeswanth/Desktop/chatHelper%20app/Work%20Done%20/parallaxController_Swift/parallaxController_Swift/ParallaxHeaderLayout.swift"
+                  timestampString = "430243660.685507"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "1100">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "parallaxController_Swift.ParallaxHeaderLayout.layoutAttributesForElementsInRect (parallaxController_Swift.ParallaxHeaderLayout)(C.CGRect) -&gt; Swift.ImplicitlyUnwrappedOptional&lt;Swift.Array&lt;Swift.AnyObject&gt;&gt;"
+                  moduleName = "parallaxController_Swift"
+                  urlString = "file:///Users/jeswanth/Desktop/chatHelper%20app/Work%20Done%20/parallaxController_Swift/parallaxController_Swift/ParallaxHeaderLayout.swift"
+                  timestampString = "430243660.685659"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "1188">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "parallaxController_Swift/ParallaxHeaderLayout.swift"
+            timestampString = "430243539.552614"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "layoutAttributesForElementsInRect(_:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "parallaxController_Swift/ParallaxHeaderLayout.swift"
+            timestampString = "430243253.622248"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "layoutAttributesForElementsInRect(_:)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "parallaxController_Swift.ParallaxHeaderLayout.layoutAttributesForElementsInRect (parallaxController_Swift.ParallaxHeaderLayout)(C.CGRect) -&gt; Swift.ImplicitlyUnwrappedOptional&lt;Swift.Array&lt;Swift.AnyObject&gt;&gt;"
+                  moduleName = "parallaxController_Swift"
+                  urlString = "file:///Users/jeswanth/Desktop/chatHelper%20app/Work%20Done%20/parallaxController_Swift/parallaxController_Swift/ParallaxHeaderLayout.swift"
+                  timestampString = "430243660.687087"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "176">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "parallaxController_Swift.ParallaxHeaderLayout.layoutAttributesForElementsInRect (parallaxController_Swift.ParallaxHeaderLayout)(C.CGRect) -&gt; Swift.ImplicitlyUnwrappedOptional&lt;Swift.Array&lt;Swift.AnyObject&gt;&gt;"
+                  moduleName = "parallaxController_Swift"
+                  urlString = "file:///Users/jeswanth/Desktop/chatHelper%20app/Work%20Done%20/parallaxController_Swift/parallaxController_Swift/ParallaxHeaderLayout.swift"
+                  timestampString = "430243660.687213"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "383">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
